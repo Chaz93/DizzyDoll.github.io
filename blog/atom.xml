@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://chaz93.github.io/blog</id>
+    <title>Ding ZiYue Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://chaz93.github.io/blog"/>
+    <subtitle>Ding ZiYue Blog</subtitle>
+    <icon>https://chaz93.github.io/img/icon.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[No.1 NoName]]></title>
+        <id>No1</id>
+        <link href="https://chaz93.github.io/blog/No1"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the first member appeared in Dizzy Doll's family <3]]></summary>
+        <content type="html"><![CDATA[<p>This is the first member appeared in Dizzy Doll's family &lt;3</p><p><img alt="FirstBaby" src="/assets/images/home1-df6f0d372c718856dbb2deef72541dfe.jpg" width="1621" height="1080"></p><p>Welcome and enjoy your new life!</p>]]></content>
+        <author>
+            <name>Pi Jiu</name>
+        </author>
+        <category label="Blythe" term="Blythe"/>
+        <category label="hello" term="hello"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No.2 Du Du]]></title>
+        <id>No2</id>
+        <link href="https://chaz93.github.io/blog/No2"/>
+        <updated>2021-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is Du Du - a cute girl with her mouth always up~]]></summary>
+        <content type="html"><![CDATA[<p>This is Du Du - a cute girl with her mouth always up~</p><p><img alt="FirstBaby" src="/assets/images/home2-e9fed6729d9aab204dda3c41229414e5.jpg" width="1521" height="1080"></p><blockquote><p>Nothing will let me down and keep saying O.K. to everything~</p></blockquote>]]></content>
+        <author>
+            <name>Pi Jiu</name>
+        </author>
+        <category label="Blythe" term="Blythe"/>
+        <category label="Introduction" term="Introduction"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No.3 Lan Lan]]></title>
+        <id>No3</id>
+        <link href="https://chaz93.github.io/blog/No3"/>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lan Lan is a quiet girl and she wants to bring warmth to everyone.]]></summary>
+        <content type="html"><![CDATA[<p>Lan Lan is a quiet girl and she wants to bring warmth to everyone.
+<img alt="LanLan" src="/assets/images/home3-4dedfa0e1a732648356e9b987b9f34b5.jpg" width="1621" height="1080"></p><blockquote><p>Do you need a hug?</p></blockquote>]]></content>
+        <author>
+            <name>Pi Jiu</name>
+        </author>
+        <category label="Blythe" term="Blythe"/>
+        <category label="Introduction" term="Introduction"/>
+    </entry>
+</feed>

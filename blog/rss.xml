@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Ding ZiYue Blog</title>
+        <link>https://chaz93.github.io/blog</link>
+        <description>Ding ZiYue Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No.1 NoName]]></title>
+            <link>https://chaz93.github.io/blog/No1</link>
+            <guid>No1</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the first member appeared in Dizzy Doll's family <3]]></description>
+            <content:encoded><![CDATA[<p>This is the first member appeared in Dizzy Doll's family &lt;3</p><p><img alt="FirstBaby" src="/assets/images/home1-df6f0d372c718856dbb2deef72541dfe.jpg" width="1621" height="1080"></p><p>Welcome and enjoy your new life!</p>]]></content:encoded>
+            <category>Blythe</category>
+            <category>hello</category>
+        </item>
+        <item>
+            <title><![CDATA[No.2 Du Du]]></title>
+            <link>https://chaz93.github.io/blog/No2</link>
+            <guid>No2</guid>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is Du Du - a cute girl with her mouth always up~]]></description>
+            <content:encoded><![CDATA[<p>This is Du Du - a cute girl with her mouth always up~</p><p><img alt="FirstBaby" src="/assets/images/home2-e9fed6729d9aab204dda3c41229414e5.jpg" width="1521" height="1080"></p><blockquote><p>Nothing will let me down and keep saying O.K. to everything~</p></blockquote>]]></content:encoded>
+            <category>Blythe</category>
+            <category>Introduction</category>
+        </item>
+        <item>
+            <title><![CDATA[No.3 Lan Lan]]></title>
+            <link>https://chaz93.github.io/blog/No3</link>
+            <guid>No3</guid>
+            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lan Lan is a quiet girl and she wants to bring warmth to everyone.]]></description>
+            <content:encoded><![CDATA[<p>Lan Lan is a quiet girl and she wants to bring warmth to everyone.
+<img alt="LanLan" src="/assets/images/home3-4dedfa0e1a732648356e9b987b9f34b5.jpg" width="1621" height="1080"></p><blockquote><p>Do you need a hug?</p></blockquote>]]></content:encoded>
+            <category>Blythe</category>
+            <category>Introduction</category>
+        </item>
+    </channel>
+</rss>
